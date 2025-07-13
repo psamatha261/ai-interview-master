@@ -1,0 +1,103 @@
+{
+  "Java Developer": {
+    "Easy": [
+      "What are the four pillars of OOP?",
+      "What is the difference between == and .equals() in Java?",
+      "Explain the concept of polymorphism with examples.",
+      "What is the difference between String, StringBuilder, and StringBuffer?",
+      "How do you create an object in Java?"
+    ],
+    "Medium": [
+      "Explain the Java Memory Model.",
+      "What is the difference between HashMap and Hashtable?",
+      "How does garbage collection work in Java?",
+      "What are the different types of exceptions in Java?",
+      "How do you handle concurrency in Java?",
+      "Explain the concept of dependency injection.",
+      "How would you debug a memory leak in a production Java system?",
+      "How do you ensure code quality in a large Java project?"
+    ],
+    "Hard": [
+      "Describe a time you optimized a slow Java application. What steps did you take?",
+      "Tell me about a challenging bug you fixed in Java. How did you approach it?",
+      "Imagine you join a team with legacy Java code and no documentation. What would you do first?",
+      "How would you design a thread-safe singleton pattern?",
+      "Explain the differences between various Java concurrency utilities (ExecutorService, CompletableFuture, etc.)"
+    ]
+  },
+  "AI Engineer": {
+    "Easy": [
+      "What is the bias-variance tradeoff?",
+      "Explain supervised vs unsupervised learning.",
+      "What is gradient descent and why is it used?",
+      "Explain the difference between classification and regression.",
+      "What is cross-validation and why is it important?"
+    ],
+    "Medium": [
+      "How do you handle overfitting in machine learning models?",
+      "How do you choose the right evaluation metrics for a problem?",
+      "Explain the concept of feature engineering.",
+      "What is the difference between deep learning and traditional ML?",
+      "How do you handle imbalanced datasets?",
+      "How would you explain a complex AI model to a non-technical stakeholder?",
+      "How do you stay updated with the latest AI research and tools?"
+    ],
+    "Hard": [
+      "Describe a real-world project where you deployed an AI model. What challenges did you face?",
+      "Tell me about a time your model performed poorly in production. What did you do?",
+      "Imagine you have limited data for a critical project. How would you proceed?",
+      "How would you implement a custom loss function for a specific problem?",
+      "Explain the trade-offs between different neural network architectures for a given task."
+    ]
+  },
+  "Frontend Developer": {
+    "Easy": [
+      "Explain the difference between HTML, CSS, and JavaScript.",
+      "What is the DOM and how do you manipulate it?",
+      "Explain the concept of responsive design.",
+      "What are the differences between var, let, and const?",
+      "What is the difference between == and === in JavaScript?"
+    ],
+    "Medium": [
+      "How do you handle asynchronous operations in JavaScript?",
+      "Explain the concept of closures in JavaScript.",
+      "How do you optimize website performance?",
+      "Explain the concept of CSS Grid vs Flexbox.",
+      "What are the benefits of using a frontend framework like React?",
+      "How would you debug a layout issue that only appears on mobile devices?",
+      "How do you ensure accessibility in your web applications?"
+    ],
+    "Hard": [
+      "Describe a time you improved the user experience of a web app. What did you do?",
+      "Tell me about a challenging cross-browser compatibility issue you solved.",
+      "Imagine a designer gives you a complex UI. How do you approach building it?",
+      "How would you implement a custom hook in React for complex state management?",
+      "Explain how you would optimize a single-page application for performance and SEO."
+    ]
+  },
+  "Data Scientist": {
+    "Easy": [
+      "How do you handle missing data in a dataset?",
+      "Explain the concept of p-value and statistical significance.",
+      "What is the difference between correlation and causation?",
+      "What is the difference between descriptive and inferential statistics?",
+      "How do you validate a machine learning model?"
+    ],
+    "Medium": [
+      "Explain the concept of feature selection.",
+      "What is the difference between parametric and non-parametric models?",
+      "How do you handle outliers in your data?",
+      "Explain the concept of A/B testing.",
+      "How do you communicate technical results to non-technical stakeholders?",
+      "How would you explain a complex statistical concept to a non-technical audience?",
+      "How do you prioritize which features to engineer for a new model?"
+    ],
+    "Hard": [
+      "Describe a project where your analysis changed a business decision. What was your approach?",
+      "Tell me about a time you discovered an unexpected insight in your data.",
+      "Imagine you have conflicting results from two analyses. What do you do?",
+      "How would you design an experiment to test a new product feature?",
+      "Explain how you would handle a dataset with millions of rows and thousands of features."
+    ]
+  }
+} 
